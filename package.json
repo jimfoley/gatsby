@@ -1,0 +1,21 @@
+{
+  "name": "gatsby",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "gatsby build",
+    "clean": "gatsby clean",
+    "develop": "gatsby develop",
+    "serve": "gatsby serve",
+    "start": "npm run develop -o"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "gatsby": "^4.24.4",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}
